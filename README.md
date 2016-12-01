@@ -1,6 +1,6 @@
 FlaskApp! - www.foxhound.me
 
-After learning to set up a VPS and website, planning to host a site with some data analysis facts, most likely NBA.
+After learning to set up a VPS and website, planning to host a site with some data/stats concerning sports, most likely NBA.
 
 So far:
 
