@@ -1,4 +1,8 @@
-FlaskApp!
+FlaskApp! - www.foxhound.me
+
+After learning to set up a VPS and website, planning to host a site with some data analysis facts, most likely NBA.
+
+So far:
 
 First setup for personal VPS server.
 
